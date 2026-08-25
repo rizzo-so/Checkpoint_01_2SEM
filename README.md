@@ -1,8 +1,11 @@
 # Checkpoint_01_2SEM
 Integrantes:
+- Enrico Giacometti
 - Fernanda Botejara 
 - Marcos Vinícius 
 - Sofia Rizzo
+
+
 Avaliação Prática — Computational Thinking of Engineering
  
   Objetivo do Projeto
